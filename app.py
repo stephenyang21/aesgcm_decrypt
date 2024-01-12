@@ -2,7 +2,7 @@ import streamlit as st
 import binascii
 
 from decrypt import decrypt
-from hex_json import hex_serialize, hex_deserialize
+from hex_json import hex_deserialize
 #from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 
 
