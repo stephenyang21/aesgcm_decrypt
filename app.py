@@ -10,7 +10,7 @@ st.title("AES-GCM  Decryption")
 
 st.header("Decryption")
 message = st.text_input("Enter the message to decrypt:")
-key = st.text_input("Enter Shared Key:")
+key = st.text_input("Enter Decryption Key:")
 
 okButtom = st.button("OK")
 
